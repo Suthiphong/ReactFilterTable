@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.hoverTable tr:hover{
+  background-color:greenyellow;
+}
